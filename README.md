@@ -7,3 +7,5 @@ Hope, you will like it and utilize the code.
 Here Below i had mentioned all the names of the project
 1>>Age Calculator
 2>>Calculator
+3>>Daily Quote Generator
+4>>Music Player
