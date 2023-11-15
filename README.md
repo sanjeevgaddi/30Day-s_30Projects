@@ -11,3 +11,5 @@ Here Below i had mentioned all the names of the project
 4>>Music Player
 5>>Notes App
 6>>Popup Message
+7>>Portfolio with theme change
+8>>QR Code Generator
