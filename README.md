@@ -13,3 +13,7 @@ Here Below i had mentioned all the names of the project
 6>>Popup Message
 7>>Portfolio with theme change
 8>>QR Code Generator
+9>>Quiz App
+10>>Random Password Generator
+11>>Stopwatch
+12>>Toast Notification
