@@ -22,4 +22,3 @@ Here Below i had mentioned all the names of the project
 15>>Weather App
 16>>Validation Starter
 17>>Coming Soon Page
-18>>Transition
