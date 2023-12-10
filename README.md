@@ -15,13 +15,16 @@ Here Below i had mentioned all the names of the project</br>
 8>>QR Code Generator</br>
 9>>Quiz App</br>
 10>>Random Password Generator</br>
-11>>Stopwatch</br>
-12>>Toast Notification</br>
-13>>Todo List</br>
-14>>Togg Password</br>
-15>>Weather App</br>
-16>>Validation Starter</br>
+11>>Stopwatch https://svg-stopwatch.netlify.app/</br>
+12>>Toast Notification https://svg-toast-notification.netlify.app/</br>
+13>>Todo List https://svg-todo-list.netlify.app/</br>
+14>>Togg Password https://svg-toggle-password.netlify.app/</br>
+15>>Weather App https://svg-weather-app.netlify.app/</br>
+16>>Validation Starter https://svg-validation-starter.netlify.app/</br>
 17>>Coming Soon Page</br>
 18>>MIni Calender</br>
 19>>Email Subscription Form</br>
-20>>Select Menu
+20>>Select Menu</br>
+21>>Transition https://svg-transition.netlify.app/</br>
+22>>Text To Speech https://svg-text-to-speech.netlify.app/</br>
+23>>Show Password Strength https://sg-show-password-strength.netlify.app/</br>
