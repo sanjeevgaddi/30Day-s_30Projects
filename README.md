@@ -2,7 +2,7 @@
 
 30 Day's 30 JavaScript Projects
 
-Here in this repository i had took a challenge to complete 30 days with 30 different projects of javascript.Hope, you will like it and utilize the code.</br>
+Here in this repository I had taken a challenge to complete 30 days with 30 different projects of javascript.Hope, you will like it and share it and utilize the code.</br>
 Here Below i had mentioned all the names of the project</br>
 01>>Age Calculator https://svg-age-calculator.netlify.app/</br>
 02>>Coming Soon Page https://svg-coming-soon-page.netlify.app/</br>
